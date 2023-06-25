@@ -12,7 +12,4 @@ I am always curious, hence I tend to push myself and learn new skills and tools 
 If you have any questions or want to reach out, connect with me with links on my bio.
 
 <h3 align="left">Connect with me:</h3>
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayotomideb)
-[![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aiiomide)
-[![](https://img.shields.io/badge/linkedin-12100E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiiomide)
-[![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/czarfy)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayotomideb) [![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/czarify) [![](https://img.shields.io/badge/youtube-12100E?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO_ydm-DWmWzxNY9-QecpOg) [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/czarfy)

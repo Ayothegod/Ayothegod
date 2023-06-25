@@ -13,7 +13,12 @@ If you have any questions or want to reach out, connect with me with links on my
 
 <h3 align="left">Connect with me:</h3>
 
-[![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aiiomide)
+[![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aiiomide) 
 [![](https://img.shields.io/badge/linkedin-12100E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiiomide)
 [![](https://img.shields.io/badge/portfolio-12100E?style=for-the-badge&logoColor=white)](https://ayomide.me)
 ---
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayothegod&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ayotheegod" /></p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayothegod&show_icons=true&locale=en&theme=onedark" alt="Ayothegod" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayothegod&theme=onedark" alt="Ayothegod" /></p>

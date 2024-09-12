@@ -1,14 +1,23 @@
-<h1 align="center">Hi 👋, I'm Ayomide</h1>
-<h2 align="center">A Full-stack web developer.</h2>
+<h1 align="center">Hi there, I’m Ayomide Adebisi 👋</h1>
+<h2 align="center">Full-Stack Web Developer | Building Modern Web Applications</h2>
 
-Hi, my name is Ayomide Adebisi, a full-stack web developer and open-source coder. welcome to my GitHub profile.
+Welcome to my GitHub profile! I'm Ayomide, a full-stack web developer with a passion for creating high-performance, user-friendly web applications. I specialize in delivering solutions that meet both business and user needs, blending functionality with clean design.
 
-I am passionate about building web products and tools that are usable and add value.
-I find open source fascinating and exciting, and I like contributing and learning from the amazing products and works of developers on GitHub.
+### 👨‍💻 Tech Stack
+- Frontend: ReactJS, NextJS, Astro
+- Backend: NodeJS, Express
+- Tools & Languages: JavaScript, TypeScript, a bit of Rust
 
-```If you have any questions or want to reach out 👇;```
+I enjoy working across the full stack, ensuring seamless integration between the front and back ends. My focus is on building applications that are fast, scalable, and easy to maintain.
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 What I Love Working On
+I’m passionate about designing and developing web applications that solve real-world problems. From responsive, dynamic user interfaces to efficient server-side logic, I’m always exploring new ways to improve user experiences and streamline development workflows.
+
+### ⚙️ Projects and Contributions
+I’m constantly working on a variety of projects, ranging from single-page applications to full-scale web platforms. My work involves technologies like React, Next.js, Astro for the frontend, and Node.js for backend services, with occasional exploration into Rust for performance-critical features.
+
+### 💬 Let’s Connect
+Have a project idea or want to chat about web development? Feel free to reach out! I’m always open to discussing new challenges and collaboration opportunities.
 
 [![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aiiomide) 
 [![](https://img.shields.io/badge/linkedin-12100E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiiomide)
